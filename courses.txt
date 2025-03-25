@@ -11,4 +11,6 @@ int main() {
 	 case 2:
             printf("you have chosen aiml");
             break;
-
+	case 3:
+            printf("you have chosen ece");
+            break;	
