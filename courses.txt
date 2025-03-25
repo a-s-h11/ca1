@@ -8,3 +8,7 @@ int main() {
         case 1:
             printf("you have chosen cse");
             break;
+	 case 2:
+            printf("you have chosen aiml");
+            break;
+
