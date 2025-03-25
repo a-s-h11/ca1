@@ -16,6 +16,7 @@ int main() {
             break;
 	case 4:
             printf("you have chosen biotech");
+	    printf("yes");
             break;
     }
 }
